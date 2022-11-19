@@ -1,0 +1,21 @@
+﻿<Window x:Class="myApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:myApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Icon="/Image2.png">
+    <Grid>
+        <ListBox Name="pdfs" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionChanged="ListBox_SelectionChanged" Margin="92,97,319,154"/>
+        <ComboBox Name="comb" HorizontalAlignment="Left" Margin="570,139,0,0" VerticalAlignment="Top" Width="148" Height="55" SelectionChanged="comb_SelectionChanged" />
+        <Button Name="bbb" Content="Button" HorizontalAlignment="Left" Margin="635,227,0,0" VerticalAlignment="Top" Visibility="Collapsed"/>
+        <Label Background="Aqua" Content="בחר תמונה" HorizontalAlignment="Left" Margin="104,62,0,0" VerticalAlignment="Top" Width="73"/>
+        <Label Background="Aqua"  Content="בחר שכבה" Margin="570,86,114,300"/>
+        
+        <Grid.Background>
+            <ImageBrush ImageSource="/Image1.png"></ImageBrush>
+        </Grid.Background>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,31 @@
+C:\Users\User\source\repos\binyamin2\myApp\myApp\bin\Debug\myApp.exe.config
+C:\Users\User\source\repos\binyamin2\myApp\myApp\bin\Debug\myApp.exe
+C:\Users\User\source\repos\binyamin2\myApp\myApp\bin\Debug\myApp.pdb
+C:\Users\User\source\repos\binyamin2\myApp\myApp\obj\Debug\myApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\binyamin2\myApp\myApp\obj\Debug\myApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\binyamin2\myApp\myApp\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\binyamin2\myApp\myApp\obj\Debug\App.g.cs
+C:\Users\User\source\repos\binyamin2\myApp\myApp\obj\Debug\myApp_MarkupCompile.cache
+C:\Users\User\source\repos\binyamin2\myApp\myApp\obj\Debug\myApp_MarkupCompile.lref
+C:\Users\User\source\repos\binyamin2\myApp\myApp\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\binyamin2\myApp\myApp\obj\Debug\myApp.g.resources
+C:\Users\User\source\repos\binyamin2\myApp\myApp\obj\Debug\myApp.Properties.Resources.resources
+C:\Users\User\source\repos\binyamin2\myApp\myApp\obj\Debug\myApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\binyamin2\myApp\myApp\obj\Debug\myApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\binyamin2\myApp\myApp\obj\Debug\myApp.exe
+C:\Users\User\source\repos\binyamin2\myApp\myApp\obj\Debug\myApp.pdb
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\bin\Debug\myApp.exe.config
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\bin\Debug\myApp.exe
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\bin\Debug\myApp.pdb
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\obj\Debug\myApp.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\obj\Debug\MainWindow.g.cs
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\obj\Debug\App.g.cs
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\obj\Debug\myApp_MarkupCompile.cache
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\obj\Debug\myApp_MarkupCompile.lref
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\obj\Debug\MainWindow.baml
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\obj\Debug\myApp.g.resources
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\obj\Debug\myApp.Properties.Resources.resources
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\obj\Debug\myApp.csproj.GenerateResource.cache
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\obj\Debug\myApp.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\obj\Debug\myApp.exe
+C:\Users\ariel\OneDrive\Bureau\האקתון מושל\myApp\obj\Debug\myApp.pdb
